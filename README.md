@@ -2,6 +2,8 @@
 OffenseEval2020 Competetion
 
 # Results
+
+## Mean 5 fold cross validation result
 <table>
 <thead>
   <tr>
@@ -75,8 +77,29 @@ OffenseEval2020 Competetion
 
 
 * in english [OLID dataset](https://github.com/talhaanwarch/Offensive-Language-Detection) is used
-
-
+## Test Data result
+<table>
+<thead>
+  <tr>
+    <th>Language</th>
+    <th>Arabic</th>
+    <th>Turkish</th>
+    <th>Danish</th>
+    <th>Greek</th>
+    <th>English</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>F1 Score</td>
+    <td>0.85191</td>
+    <td>0.74772</td>
+    <td>0.682</td>
+    <td>0.814</td>
+    <td>0.90925</td>
+  </tr>
+</tbody>
+</table>
 
 # Position in competetion
 ![Image description](result.png)
