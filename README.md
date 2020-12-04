@@ -104,3 +104,14 @@ OffenseEval2020 Competetion
 # Position in competetion
 ![Image description](result.png)
 
+# Citation  
+Please cite following paper
+```
+@inproceedings{anwar2020tac,
+  title={TAC at SemEval-2020 Task 12: Ensembling Approach for Multilingual Offensive Language Identification in Social Media},
+  author={Anwar, Talha and Baig, Omer},
+  booktitle={Proceedings of the Fourteenth Workshop on Semantic Evaluation},
+  pages={2177--2182},
+  year={2020}
+}
+```
