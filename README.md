@@ -1,6 +1,6 @@
 # OffenseEval2020
-OffenseEval2020 Competetion
-
+## OffenseEval2020 Competetion  
+Usage of offensive language on social media is getting more common these days, and there is a need of a mechanism to detect it and control it. This paper deals with offensive language detection in five different languages; English, Arabic, Danish, Greek and Turkish. We presented an almost similar ensemble pipeline comprised of machine learning and deep learning models for all five languages. Three machine learning and four deep learning models were used in the ensemble. In the OffensEval-2020 competition our model achieved F1-score of 0.85, 0.74, 0.68, 0.81, and 0.9 for Arabic, Turkish, Danish, Greek and English language tasks respectively.
 # Results
 
 ## Mean 5 fold cross validation result
